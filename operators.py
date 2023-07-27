@@ -6,7 +6,8 @@ print(5*2)
 print(5**2)
 print(5/2)
 print(5//2)
-print(5%2)
+print(5%2)
+
 print("----------------------------------------")
 #2.relational operators
 print(3<4)
@@ -79,7 +80,8 @@ a='mohan'
 b='Mohan'
 print(id(a))
 print(id(b))
-print(id(a)==id(b))
+print(id(a)==id(b))
+
 print("----------------------------------------")
 #bitwise operators
 
@@ -93,6 +95,7 @@ print(a|b)
 print(a^b)
 print(~a) 
 print(a<<2)
-print(a>>2)
+print(a>>2)
+
 print("----------------------------------------")
 
