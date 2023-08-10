@@ -1,6 +1,5 @@
 #list operations
-
-mymarks=["Balaji",78,72,76,98,78,94,"Hyderabad"]
+'''mymarks=["Balaji",78,72,76,98,78,94,"Hyderabad"]
 index: mymarks[0]
 
 print("------------------------------------------")
@@ -58,7 +57,7 @@ print("------------------------------------------")
 
 # Adding  elements to list
 
-l=[2,3,4]
+l=[2,3,4] #list of 3 elements 
 print(l)
 l[1]=33# 1 is index and 33 is value
 print(l)
